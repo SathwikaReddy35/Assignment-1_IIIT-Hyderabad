@@ -63,8 +63,12 @@ class App extends Component {
 
                           <div className='Hide1'>
                             <h3>Key Specifications and Key Features </h3>
+
                             <p><br></br></p>
+                            {/* {option.value} */}
+                            {/* {Data[0].bhp} */}
                             {option.value}
+
                           </div>
                         </div>
 

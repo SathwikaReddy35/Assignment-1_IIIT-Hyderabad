@@ -6,7 +6,7 @@
     
     transition:0.3s;
     animation: both;    
-    margin: 100px;
+    margin: 50px;
 }
 
 
@@ -22,8 +22,8 @@
     float: left;
     width: 1250px;
     height: 350px;
-    padding: 15px;
-    margin-left: 40px;
+    padding: 0px;
+    margin-left: 0px;
 
 }
 
